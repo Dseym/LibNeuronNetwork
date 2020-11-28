@@ -1,0 +1,2 @@
+# libNeuronNetw
+Neuron network lib
